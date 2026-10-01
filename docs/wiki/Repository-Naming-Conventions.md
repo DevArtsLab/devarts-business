@@ -10,15 +10,14 @@ Naming standards for repositories in the DevArtsLab GitHub org.
 
 ## Prefixes
 
-Prefixes are reserved for DevArts Lab org infrastructure:
-
-| Prefix        | Use                                | Examples                              |
-| ------------- | ---------------------------------- | ------------------------------------- |
-| `devartslab-` | Public web properties              | `devartslab-site`, `devartslab-notion` |
-| `devarts-`    | Internal tooling and business docs | `devarts-mail`, `devarts-business`    |
+| Prefix        | Use                                   | Examples                                           |
+| ------------- | ------------------------------------- | -------------------------------------------------- |
+| `devartslab-` | Public web properties                 | `devartslab-site`, `devartslab-notion`             |
+| `devarts-`    | Internal tooling and business docs    | `devarts-mail`, `devarts-business`                 |
+| `tool-`       | Reusable utilities and helper scripts | `tool-airtable-export`, `tool-universal-ai-config` |
 
 Project, client, and experiment repos use plain descriptive names with no
-prefix: `airtable-export`, `voice-quote`, `documind`.
+prefix: `voice-quote`, `documind`, `health-pulse`.
 
 ## Type suffixes
 
