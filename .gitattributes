@@ -1,0 +1,3 @@
+# Everything under vault/ is encrypted at rest in git (git-crypt).
+# Contents are opaque blobs on GitHub; plaintext only in unlocked clones.
+vault/** filter=git-crypt diff=git-crypt merge=git-crypt

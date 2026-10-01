@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian churn inside vault/ (per-device state, not worth tracking)
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache/
+vault/.trash/
+
+# git-crypt key material must never be committed
+*.git-crypt.key
