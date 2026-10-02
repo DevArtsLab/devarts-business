@@ -2,24 +2,27 @@
 
 ## Core Offerings
 
-| Service | Description |
-|---------|-------------|
-| **Custom Websites & Portfolios** | Modern, responsive websites using Next.js, React, and MUI/TailwindCSS |
-| **AI-Assisted Content Creation** | Resumes, project descriptions, brand copy powered by AI tools |
-| **E-commerce Setups** | Simple online stores for small local businesses |
-| **Digital Transformation Consulting** | Helping traditional businesses establish their online presence |
+| Service                               | Description                                                              |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| **Custom Websites & Portfolios**      | Modern, responsive websites using Next.js, React, and MUI/TailwindCSS    |
+| **AI-Assisted Content Creation**      | Resumes, project descriptions, brand copy powered by AI tools            |
+| **E-commerce Setups**                 | Simple online stores for small local businesses                          |
+| **Digital Transformation Consulting** | Helping traditional businesses establish their online presence           |
+| **AI Automation & Agents**            | Document Q&A, research agents, async pipelines for client workflows      |
+| **Org Revenue Intelligence (RTS)**    | Salesforce + n8n systems for nonprofits: donor/grant pipeline automation |
+| **Managed Deployment**                | Hosting, DNS, and email setup with low-maintenance infrastructure        |
 
 ---
 
 ## Service Packages
 
-*[To be completed - Define tiered pricing packages]*
+_[To be completed - Define tiered pricing packages]_
 
-| Package | Features | Price Range |
-|---------|----------|-------------|
-| **Starter** | TBD | TBD |
-| **Professional** | TBD | TBD |
-| **Enterprise** | TBD | TBD |
+| Package          | Features | Price Range |
+| ---------------- | -------- | ----------- |
+| **Starter**      | TBD      | TBD         |
+| **Professional** | TBD      | TBD         |
+| **Enterprise**   | TBD      | TBD         |
 
 ---
 
@@ -57,10 +60,10 @@
 
 ## Future Offerings
 
-*[To be completed]*
-
+- [ ] Async research/scraping agent service (Linear: DEV-16)
+- [ ] Productized RTS onboarding for partner orgs (Linear: DEV-18)
+- [ ] Studio storefront with embedded live demos (Linear: DEV-17)
 - [ ] Website templates marketplace
-- [ ] DIY website builder tool
 - [ ] Monthly maintenance subscriptions
 - [ ] Workshops and training programs
 
