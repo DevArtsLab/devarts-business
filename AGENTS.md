@@ -12,6 +12,4 @@ This repository is governed by the DevArts Lab foundation: `../devartslab-founda
   source of the identity manifest's business facts; keep names/domains in one
   place), 16.2 publication policy.
 - Skills resolve by name from `~/.agents/skills/`; do not vendor copies.
-- Docs platform status: internal. Business-confidential; not a documentation
-  platform candidate. LAB_INDEX is authoritative.
 - Track work in the DevArts Lab Linear workspace.
