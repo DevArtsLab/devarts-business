@@ -10,6 +10,6 @@ This repository is governed by the DevArts Lab foundation: `../devartslab-founda
 
 - Applicable: document conventions (Sections 15.5, 16), D12 (this repo is the
   source of the identity manifest's business facts; keep names/domains in one
-  place), 16.2 publication policy.
+  place).
 - Skills resolve by name from `~/.agents/skills/`; do not vendor copies.
 - Track work in the DevArts Lab Linear workspace.
