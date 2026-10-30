@@ -4,7 +4,7 @@
 
 | Timeline   | Milestone                                                   | Status                                                                   |
 | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Month 1-2  | Complete business plan & First Stage Lab                    | 🔄 In Progress (plan refresh, DEV-19)                                    |
+| Month 1-2  | Complete business plan & first stage lab                    | 🔄 In Progress (plan refresh, DEV-19)                                    |
 | Month 2-3  | Build DevArts website & portfolio                           | 🔄 Partially done (devartslab.com live; full storefront pending, DEV-17) |
 | Month 3-4  | Complete 2-3 pilot projects                                 | ⏳ Pending                                                               |
 | Month 4-6  | Refine service packages based on feedback                   | ⏳ Pending                                                               |
@@ -18,8 +18,8 @@
 
 ### Phase 1: Foundation (Month 1-2)
 
-- [x] Define business concept (Dec 2025)
-- [x] Complete First Stage Lab application
+- [x] Define business concept (Nov 2025)
+- [x] Complete ULEM First Stage Lab program (Cohort 3, Nov-Dec 2025)
 - [x] Create business plan documentation
 - [ ] Set up legal business structure
 - [x] Register domain name (devartslab.com, Jan 2026)
@@ -73,4 +73,4 @@
 
 ---
 
-← [[Financial Plan]] | [[Home]] | [[First Stage Lab Application]] →
+<- [[Financial Plan]] | [[Home]] | [[First Stage Lab Application]] ->

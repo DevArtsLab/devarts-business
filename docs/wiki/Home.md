@@ -11,7 +11,10 @@ Welcome to the DevArts Business Plan documentation wiki.
 - [[Operations Plan]]
 - [[Financial Plan]]
 - [[Milestones]]
-- [[First Stage Lab Application]]
+- [[Repository Naming Conventions]]
+
+Records: [DevArts Lab activity log](../activity-log.md) - programs,
+events, external inputs to the plan
 
 ---
 
@@ -27,17 +30,17 @@ To make high-quality digital presence accessible to everyone, regardless of tech
 
 ## Document Status
 
-| Section             | Status         |
-| ------------------- | -------------- |
-| Executive Summary   | ✅ Complete    |
-| Business Overview   | ✅ Complete    |
-| Products & Services | 🔄 In Progress |
-| Market Analysis     | ⏳ Pending     |
-| 3-Minute Pitch      | ✅ Complete    |
-| Operations Plan     | 🔄 In Progress |
-| Financial Plan      | 🔄 In Progress |
-| Milestones          | ✅ Complete    |
+| Section             | Status                   |
+| ------------------- | ------------------------ |
+| Executive Summary   | ✅ Complete              |
+| Business Overview   | ✅ Complete              |
+| Products & Services | 🔄 In Progress (pricing) |
+| Market Analysis     | ⏳ Pending               |
+| 3-Minute Pitch      | 🔄 In Progress (script)  |
+| Operations Plan     | ✅ Complete              |
+| Financial Plan      | 🔄 In Progress (pricing) |
+| Milestones          | ✅ Complete              |
 
 ---
 
-_Last updated: October 1, 2026_
+_Last updated: October 29, 2026_

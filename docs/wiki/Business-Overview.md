@@ -2,17 +2,17 @@
 
 ## Executive Summary
 
-**DevArts** is a digital development and creative solutions studio that empowers individuals, small businesses, and early-stage entrepreneurs to build a strong online presence using modern web technologies and AI-driven tools. From personalized portfolio websites and e-commerce platforms to resume builders and brand storytelling tools, DevArts helps clients present their skills, services, and products with confidence and professionalism.
+**DevArts Lab** is a digital development and creative solutions studio that empowers individuals, small businesses, and early-stage entrepreneurs to build a strong online presence using modern web technologies and AI-driven tools. DevArts Lab helps organizations and professionals operate digital systems in production with automated pipelines and AI-driven tools delivered at accessible prices.
 
-| Field              | Details                                             |
-| ------------------ | --------------------------------------------------- |
-| **Business Name**  | DevArts                                             |
-| **Website**        | www.devartslab.com (live)                           |
-| **Business Stage** | Pre-Seed                                            |
-| **Industry**       | Professional Services – Web Development & Marketing |
-| **Offering Type**  | Products & Services                                 |
+| Field              | Details                                  |
+| ------------------ | ---------------------------------------- |
+| **Business Name**  | DevArts Lab                              |
+| **Website**        | www.devartslab.com (live)                |
+| **Business Stage** | Pre-Seed                                 |
+| **Industry**       | Information Technology - Web Development |
+| **Offering Type**  | Products & Engineering R&D Services      |
 
----
+<!-- Note: DevArts brand evolved into devartslab.com domain, due to domain unavailability, so we use devartslab.com -->
 
 ## Mission Statement
 
@@ -22,20 +22,21 @@ To make high-quality digital presence accessible to everyone, regardless of tech
 
 ## Vision Statement
 
-To become the studio that organizations and professionals turn to when they need production-grade digital systems, not just websites: live demos, automated pipelines, and AI-driven tools delivered at accessible prices.
+To become the studio that organizations and professionals turn to when they need digital systems in production, automated pipelines, and AI-driven tools delivered with speed and quality.
 
 ---
 
 ## Core Values
 
-- **Craft over templates** - real engineering, not reskinned site builders
-- **Accessible pricing** - professional quality without agency cost
-- **Automation-first** - every deliverable should reduce manual work
-- **Show, don't tell** - working products over slideware
+- **Craft** - professional engineering quality
+- **Accessible pricing** - cost effective solutions
+- **Automation-first** - workflows that reduce manual work
+- **Outcome-focused** - measurable results
+- **Impact-driven** - meaningful experience
 
 ---
 
-## Why DevArts?
+## Why DevArts Lab?
 
 | Strength                | Description                                      |
 | ----------------------- | ------------------------------------------------ |
@@ -46,4 +47,4 @@ To become the studio that organizations and professionals turn to when they need
 
 ---
 
-[[Home]] | [[Products and Services]] →
+[[Home]] | [[Products and Services]] ->

@@ -77,4 +77,4 @@ _[To be completed]_
 
 ---
 
-← [[Operations Plan]] | [[Home]] | [[Milestones]] →
+<- [[Operations Plan]] | [[Home]] | [[Milestones]] ->

@@ -4,13 +4,13 @@
 
 | Category          | Technologies                                    |
 | ----------------- | ----------------------------------------------- |
-| **Frontend**      | React, Next.js, TailwindCSS, MUI                |
-| **Backend**       | Node.js, Python, Express                        |
+| **Frontend**      | React, Next, TailwindCSS, MUI                   |
+| **Backend**       | Node, Python                                    |
 | **Edge platform** | Cloudflare Workers, Durable Objects, Queues, R2 |
-| **AI/ML**         | Workers AI, huggingface, LangChain, Anthropic   |
+| **AI/ML**         | Workers AI, Hugging Face, LangChain, Anthropic  |
 | **Database**      | PostgreSQL, MongoDB                             |
-| **Hosting/Cloud** | Cloudflare, AWS, GitHub Pages                   |
-| **Org systems**   | Salesforce, n8n                                 |
+| **Hosting/Cloud** | Cloudflare                                      |
+| **Org systems**   | Salesforce, HubSpot, n8n, Devin                 |
 | **E-commerce**    | Stripe, Shopify integrations                    |
 
 ---
@@ -31,43 +31,43 @@
 ## Workflow Process
 
 ```
-┌─────────────────┐
-│ 1. Discovery    │
-│    Call         │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 2. Proposal &   │
-│    Agreement    │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 3. Design       │
-│    Mockups      │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 4. Development  │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 5. Review &     │
-│    Revisions    │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 6. Launch       │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 7. Handoff &    │
-│    Training     │
-└────────┬────────┘
-         ▼
-┌─────────────────┐
-│ 8. Ongoing      │
-│    Support      │
-└─────────────────┘
++-----------------+
+| 1. Discovery    |
+|    Call         |
++--------+--------+
+         v
++-----------------+
+| 2. Proposal &   |
+|    Agreement    |
++--------+--------+
+         v
++-----------------+
+| 3. Design       |
+|    Mockups      |
++--------+--------+
+         v
++-----------------+
+| 4. Development  |
++--------+--------+
+         v
++-----------------+
+| 5. Review &     |
+|    Revisions    |
++--------+--------+
+         v
++-----------------+
+| 6. Launch       |
++--------+--------+
+         v
++-----------------+
+| 7. Handoff &    |
+|    Training     |
++--------+--------+
+         v
++-----------------+
+| 8. Ongoing      |
+|    Support      |
++-----------------+
 ```
 
 ---
@@ -124,4 +124,4 @@
 
 ---
 
-← [[3-Minute Pitch]] | [[Home]] | [[Financial Plan]] →
+<- [[3-Minute Pitch]] | [[Home]] | [[Financial Plan]] ->

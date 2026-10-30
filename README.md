@@ -14,6 +14,10 @@ The plan lives in dedicated pages: [docs/wiki/](docs/wiki/Home.md)
 - [Operations Plan](docs/wiki/Operations-Plan.md)
 - [Financial Plan](docs/wiki/Financial-Plan.md)
 - [Milestones](docs/wiki/Milestones.md)
-- [First Stage Lab Application](docs/wiki/First-Stage-Lab-Application.md)
+- [First Stage Lab](docs/wiki/First-Stage-Lab-Application.md)
 
-Other docs: [Repository Naming Conventions](docs/wiki/Repository-Naming-Conventions.md), [legal/](docs/legal/)
+Other docs: [Repository Naming Conventions](docs/wiki/Repository-Naming-Conventions.md), [legal/](docs/legal/), [REPO_INDEX.md](REPO_INDEX.md)
+
+_Oct 1, 2026_ - `vault/` is a git-crypt encrypted Obsidian vault logging external
+communications (banking, vendors, partners). Contents are ciphertext on
+GitHub; see [vault/README.md](vault/README.md) for unlock instructions.
