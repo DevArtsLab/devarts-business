@@ -1,7 +1,5 @@
 # Pricing Strategy
 
-_[Draft - proposed, Oct 2026.]_
-
 This page holds pricing rationale only. The numbers live in
 [Products and Services](Products-and-Services.md); the market figures
 live in [Market Analysis](Market-Analysis.md).
@@ -42,17 +40,17 @@ Anchor figures: [Market Analysis](Market-Analysis.md).
 
 ---
 
-## Services track (now)
+## Services track
 
 Fixed-scope packages, monthly plans, scoped custom work - figures in
 [Products and Services](Products-and-Services.md#service-packages).
 Constraint: founder hours; pricing converts delivery time into
 repeatable packages.
 
-## Product track (DEV-47, in development)
+## Product track (DEV-47)
 
 Monetization shape and gates:
-[Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+[Products and Services](Products-and-Services.md#product-line-dev-47).
 
 Free core is deliberate, not freemium drift: the guide warns free users
 can devalue a brand, so the free artifact is a complete product (data
@@ -74,7 +72,7 @@ AI automation add-ons price against a scorecard, not effort:
 
 - Product license vs setup/support-only model - blocked on the n8n
   license gate in
-  [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+  [Products and Services](Products-and-Services.md#product-line-dev-47).
 - Consulting rate band vs value-priced fixed quotes once 3-5 projects land.
 - Whether Year 2 adds a paid template/asset line (low-touch revenue).
 

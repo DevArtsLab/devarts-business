@@ -2,8 +2,6 @@
 
 ## Costs
 
-Actuals as of November 2026 - infrastructure is already running:
-
 | Item                                           | Actual Cost                                                                        |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Domain (devartslab.com)                        | $15 via Route 53 (Jan 2026); transferred to Cloudflare Nov 2026, renewal $10.46/yr |
@@ -34,13 +32,13 @@ Rationale and market anchors: [Pricing Strategy](Pricing-Strategy.md).
 
 The product track carries $0 recurring COGS per user (self-hosted,
 local LLM); hosted-tier compliance costs apply only if that tier
-returns - gate in [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+returns - gate in [Products and Services](Products-and-Services.md#product-line-dev-47).
 
 ---
 
 ## Revenue Projections
 
-_[Draft - proposed; Year 2 window (Nov 2026 - Oct 2027). No paying pilots yet - projections assume first paid work lands in Q1.]_
+_[Year 2 window (Nov 2026 - Oct 2027); assumes first paid work lands in Q1.]_
 
 | Period              | Projected Revenue | Notes                                   |
 | ------------------- | ----------------- | --------------------------------------- |
@@ -53,27 +51,23 @@ _[Draft - proposed; Year 2 window (Nov 2026 - Oct 2027). No paying pilots yet - 
 
 ## Break-Even Analysis
 
-_[Draft - proposed]_
-
 Fixed costs ~$70/yr + registration (TBD). Break-even is effectively one
 Starter project. Real threshold is founder time, not cash - constraint
-rationale in [Pricing Strategy](Pricing-Strategy.md#services-track-now).
+rationale in [Pricing Strategy](Pricing-Strategy.md#services-track).
 
 ---
 
 ## Funding Requirements
 
-_[Draft - proposed]_
-
-No external funding required at current burn. Needs:
+No external funding required. Needs:
 
 | Item                      | Est. Cost | Timing                                                                                                         |
 | ------------------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
 | Business registration/LLC | TBD       | Before paid work                                                                                               |
 | Domain + Workers Paid     | ~$70/yr   | Running                                                                                                        |
 | Contingency (tools, ads)  | ~$500     | As needed                                                                                                      |
-| n8n license confirmation  | $0        | Before paid product launch - gate in [Products](Products-and-Services.md#product-line-in-development---dev-47) |
-| Hosted-tier compliance    | Deferred  | Only if hosted tier returns; cost in [Products](Products-and-Services.md#product-line-in-development---dev-47) |
+| n8n license confirmation  | $0        | Before paid product launch - gate in [Products](Products-and-Services.md#product-line-dev-47) |
+| Hosted-tier compliance    | Deferred  | Only if hosted tier returns; cost in [Products](Products-and-Services.md#product-line-dev-47) |
 
 ---
 

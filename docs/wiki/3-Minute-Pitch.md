@@ -39,19 +39,19 @@ accessible price points. We operate in the orchestration tier
 | Real developer support | Fast turnaround      |
 | Personalized solutions | Direct communication |
 
-**Proof (verified Oct 2026):** production Cloudflare edge stack serving
-5 live properties (devartslab.com, docs, data, mail,
-american-community-network); 38 repos shipped under the DevArtsLab org.
+**Proof:** production Cloudflare edge stack serving devartslab.com,
+docs, data, mail, and american-community-network; full repo portfolio
+under the DevArtsLab org.
 
 ---
 
 ## 4. Two Revenue Tracks
 
-- **Services (now):** fixed-scope packages and monthly plans -
+- **Services:** fixed-scope packages and monthly plans -
   [Products and Services](Products-and-Services.md#service-packages).
-- **Product (in development):** self-hosted career tracker, free core,
+- **Product:** self-hosted career tracker, free core,
   global distribution -
-  [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+  [Products and Services](Products-and-Services.md#product-line-dev-47).
 
 ---
 

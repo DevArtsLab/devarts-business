@@ -9,7 +9,7 @@
 | Apr-Jun 2026 | Complete 2-3 pilot projects                               | Not done - no paying pilots; carried into Year 2                   |
 | Jul-Oct 2026 | Refine service packages, scale marketing, evaluate growth | Partial - pricing drafted Oct 2026 (DEV-19); marketing not started |
 
-## Year 2 Roadmap (Nov 2026 - Oct 2027) - proposed
+## Year 2 Roadmap (Nov 2026 - Oct 2027)
 
 | Timeline     | Milestone                                                                                                                | Status      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
@@ -19,7 +19,7 @@
 | Apr-Jun 2027 | 2-3 projects + first recurring maintenance plan; collect testimonials                                                    | Pending     |
 | Jul-Oct 2027 | Productize top package; marketing + referral program; evaluate subcontracting and RTS org onboarding (DEV-18)            | Pending     |
 | Q4 2026      | Intelligence agent service (DEV-16), first RTS org (DEV-18)                                                              | Backlog     |
-| Post-launch  | Paid product license or hosted tier - gates in [Products](Products-and-Services.md#product-line-in-development---dev-47) | Deferred    |
+| Post-launch  | Paid product license or hosted tier - gates in [Products](Products-and-Services.md#product-line-dev-47) | Deferred    |
 
 ---
 

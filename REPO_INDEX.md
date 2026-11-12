@@ -62,5 +62,5 @@
 | Where                    | What                                                                    |
 | ------------------------ | ----------------------------------------------------------------------- |
 | `../foundation`          | Governing charter; adopted revision recorded in `AGENTS.md`             |
-| Linear project `P-DEV-2` | DevArts Lab Business Buildout: DEV-16/17/18 backlog, DEV-19 in progress |
+| Linear project `P-DEV-2` | DevArts Lab Business Buildout (DEV-16/17/18/19) |
 | `../LAB_INDEX.md`        | Workspace inventory and document readiness                              |

@@ -16,18 +16,16 @@
 
 ## Service Packages
 
-_[Draft - proposed pricing, pending validation against first client conversations]_
-
 This page is the single home for price figures; other pages link here.
 Tiering rationale: [Pricing Strategy](Pricing-Strategy.md).
 
-| Package          | Features                                                                                             | Price (proposed)           |
+| Package          | Features                                                                                             | Price                      |
 | ---------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
 | **Starter**      | Portfolio or landing page (1-3 pages), responsive design, contact form, managed edge hosting setup   | $400-800 one-time          |
 | **Professional** | Multi-page business site (5-10 pages), e-commerce or booking setup, custom domain + email, basic SEO | $1,500-3,500 one-time      |
 | **Enterprise**   | Custom web app or AI automation pipeline, integrations (CRM, payments), documentation, training      | $4,000+ scoped per project |
 
-### Add-Ons (proposed)
+### Add-Ons
 
 | Add-on                    | Model   | Range        |
 | ------------------------- | ------- | ------------ |
@@ -38,7 +36,7 @@ Tiering rationale: [Pricing Strategy](Pricing-Strategy.md).
 
 ---
 
-## Product Line (in development - DEV-47)
+## Product Line (DEV-47)
 
 **Career tracker (self-hosted, single-tenant):** job-hunt records and
 email threads built from the user's own correspondence, agentic pipeline
@@ -52,7 +50,7 @@ wizard; data stays on user hardware.
 | Release channel   | GitHub releases (immutable), CTD catalogs as release snapshots                                          |
 | Ingest            | Per-user Gmail OAuth; forwarding-based fallback                                                         |
 | AI cost           | $0 recurring - local models, BYOK option                                                                |
-| Monetization (v1) | Free core; paid setup/support ($150-300 proposed); paid license gated on n8n SUL confirmation           |
+| Monetization (v1) | Free core; paid setup/support ($150-300); paid license gated on n8n SUL confirmation                    |
 | Hosted SaaS tier  | Deferred until demand evidence; adds CASA ~$675-5,400/yr + ~6-week Google restricted-scope verification |
 
 Competitor comparison and differentiation: [Market Analysis](Market-Analysis.md#competitor-analysis).
