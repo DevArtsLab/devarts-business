@@ -21,7 +21,8 @@ Many organizations, small business owners, and early-stage entrepreneurs struggl
 - **Nonprofits and entrepreneurs** with limited budgets
 - **Healthcare & research institutions** needing AI validation infrastructure and secure cloud solutions
 - **Freelancers & independent professionals** (developers, designers, consultants, artists)
-- **Small businesses** lacking web presence
+- **Small businesses** lacking web presence, locally and remote
+- **Privacy-conscious professionals** who want AI tooling they own, not a $26-40/mo hosted subscription
 
 ---
 
@@ -37,8 +38,14 @@ DevArts Lab combines **full-stack web development expertise** with **AI-powered 
 
 **We bridge the gap: professional results without the enterprise cost.**
 
+DevArts Lab operates in the **orchestration tier** - where verified demand
+is growing fastest (agentic AI postings +2043% YoY, Dice 2025) and where
+buyers pay for production outcomes, not prototypes. Two tracks: services
+that convert into repeatable packages, and a self-hosted product line
+(local LLM, $0 recurring cost) that distributes globally.
+
 **Proof (verified Oct 2026):** production Cloudflare edge stack serving 5
-live properties (devartslab.com, docs, data, mail, american-community-network); 35 repos shipped under the DevArtsLab org.
+live properties (devartslab.com, docs, data, mail, american-community-network); 38 repos shipped under the DevArtsLab org.
 
 ---
 
@@ -55,14 +62,15 @@ live properties (devartslab.com, docs, data, mail, american-community-network); 
 
 ## 5. Key Metrics
 
-| Metric                    | Target (Year 1)     |
-| ------------------------- | ------------------- |
-| Pilot projects completed  | 35 in first year    |
-| Client satisfaction (NPS) | TBD (tracking tool) |
-| Revenue per project       | TBD (tracking tool) |
-| Monthly recurring revenue | TBD (tracking tool) |
-| Client referral rate      | TBD (tracking tool) |
-| Website lead conversion   | TBD (tracking tool) |
+| Metric                      | Target (Year 2)         |
+| --------------------------- | ----------------------- |
+| Pilot projects completed    | 3-5 paying projects     |
+| Product users (self-hosted) | First external adopters |
+| Client satisfaction (NPS)   | TBD (tracking tool)     |
+| Revenue per project         | TBD (tracking tool)     |
+| Monthly recurring revenue   | TBD (tracking tool)     |
+| Client referral rate        | TBD (tracking tool)     |
+| Website lead conversion     | TBD (tracking tool)     |
 
 ---
 

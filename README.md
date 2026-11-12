@@ -13,6 +13,7 @@ The plan lives in dedicated pages: [docs/wiki/](docs/wiki/Home.md)
 - [3-Minute Pitch](docs/wiki/3-Minute-Pitch.md)
 - [Operations Plan](docs/wiki/Operations-Plan.md)
 - [Financial Plan](docs/wiki/Financial-Plan.md)
+- [Pricing Strategy](docs/wiki/Pricing-Strategy.md)
 - [Milestones](docs/wiki/Milestones.md)
 - [First Stage Lab](docs/wiki/First-Stage-Lab-Application.md)
 

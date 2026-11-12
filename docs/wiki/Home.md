@@ -10,6 +10,7 @@ Welcome to the DevArts Business Plan documentation wiki.
 - [[3-Minute Pitch]]
 - [[Operations Plan]]
 - [[Financial Plan]]
+- [[Pricing Strategy]]
 - [[Milestones]]
 - [[Repository Naming Conventions]]
 
@@ -30,17 +31,18 @@ To make high-quality digital presence accessible to everyone, regardless of tech
 
 ## Document Status
 
-| Section             | Status                   |
-| ------------------- | ------------------------ |
-| Executive Summary   | ✅ Complete              |
-| Business Overview   | ✅ Complete              |
-| Products & Services | 🔄 In Progress (pricing) |
-| Market Analysis     | ⏳ Pending               |
-| 3-Minute Pitch      | 🔄 In Progress (script)  |
-| Operations Plan     | ✅ Complete              |
-| Financial Plan      | 🔄 In Progress (pricing) |
-| Milestones          | ✅ Complete              |
+| Section             | Status                                    |
+| ------------------- | ----------------------------------------- |
+| Executive Summary   | ✅ Complete                               |
+| Business Overview   | ✅ Refreshed (product line added)         |
+| Products & Services | 🔄 Pricing + product line drafted         |
+| Market Analysis     | 🔄 Enriched with Linear market signals    |
+| 3-Minute Pitch      | 🔄 In Progress (script)                   |
+| Operations Plan     | ✅ Complete                               |
+| Financial Plan      | 🔄 Pricing/projections drafted (proposed) |
+| Pricing Strategy    | 🔄 Drafted (proposed; guide + anchors)    |
+| Milestones          | ✅ Refreshed (Year 2 roadmap proposed)    |
 
 ---
 
-_Last updated: October 29, 2026_
+_Last updated: October 30, 2026_

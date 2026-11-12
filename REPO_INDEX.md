@@ -3,7 +3,7 @@
 > Single source of truth for what lives in this repository.
 > Regenerate when files or folders are added, removed, or substantially rewritten.
 >
-> **Last updated:** 2026-10-29
+> **Last updated:** 2026-10-30
 
 ## Top-level
 
@@ -19,17 +19,18 @@
 
 ## docs/wiki/
 
-| File                               | What it is                                                 | Status                 |
-| ---------------------------------- | ---------------------------------------------------------- | ---------------------- |
-| `Home.md`                          | Wiki landing page, mission, document status table          | Current                |
-| `Business-Overview.md`             | Executive summary, mission, vision, values                 | Complete               |
-| `Products-and-Services.md`         | Offerings, service detail, future offerings (DEV-16/17/18) | In progress (pricing)  |
-| `Market-Analysis.md`               | Target segments, personas, competitors                     | Pending (placeholders) |
-| `3-Minute-Pitch.md`                | Problem, segments, UVP, partners, metrics                  | In progress (script)   |
-| `Operations-Plan.md`               | Tech stack, tools, client workflow                         | Complete               |
-| `Financial-Plan.md`                | Actual infra costs, revenue streams, projections           | In progress (pricing)  |
-| `Milestones.md`                    | Year 1 roadmap, phases, risk analysis                      | Complete               |
-| `Repository-Naming-Conventions.md` | Naming standards for DevArtsLab org repos                  | Complete               |
+| File                               | What it is                                                    | Status                     |
+| ---------------------------------- | ------------------------------------------------------------- | -------------------------- |
+| `Home.md`                          | Wiki landing page, mission, document status table             | Current                    |
+| `Business-Overview.md`             | Executive summary, mission, vision, values                    | Refreshed (product line)   |
+| `Products-and-Services.md`         | Offerings, service tiers, product line (DEV-16/17/18/47)      | Pricing drafted (proposed) |
+| `Market-Analysis.md`               | Target segments, personas, competitors with verified anchors  | Enriched (Oct 2026)        |
+| `3-Minute-Pitch.md`                | Problem, segments, UVP, partners, metrics                     | In progress (script)       |
+| `Operations-Plan.md`               | Tech stack, tools, client workflow                            | Complete                   |
+| `Financial-Plan.md`                | Actual infra costs, revenue streams, projections              | Drafted (proposed)         |
+| `Pricing-Strategy.md`              | Guide principles + Linear market anchors + open pricing gates | Drafted (proposed)         |
+| `Milestones.md`                    | Year 1 retrospective, Year 2 roadmap, phases, risks           | Refreshed (Oct 2026)       |
+| `Repository-Naming-Conventions.md` | Naming standards for DevArtsLab org repos                     | Complete                   |
 
 ## docs/ (outside wiki)
 
@@ -40,8 +41,8 @@
 
 ## docs/records/
 
-| File                             | What it is                                                             |
-| -------------------------------- | ---------------------------------------------------------------------- |
+| File                          | What it is                                                        |
+| ----------------------------- | ----------------------------------------------------------------- |
 | `first-stage-lab-cohort-3.md` | ULEM First Stage Lab Cohort 3 (Nov-Dec 2025) participation record |
 
 ## docs/legal/
@@ -53,18 +54,19 @@
 
 ## vault/
 
-| Path                                   | What it is                                                 |
-| -------------------------------------- | ---------------------------------------------------------- |
-| `vault/README.md`                      | Vault layout, git-crypt unlock instructions                |
-| `vault/communications/Index.md`        | Dataview index over communication notes                    |
-| `vault/communications/YYYY/quarter-N/` | Archived master records (do not alter after filing)        |
-| `vault/templates/`                     | Note templates (Communication Log)                         |
-| `vault/.obsidian/`                     | Obsidian config + Dataview plugin (workspace.json ignored) |
+| Path                                   | What it is                                                             |
+| -------------------------------------- | ---------------------------------------------------------------------- |
+| `vault/README.md`                      | Vault layout, git-crypt unlock instructions                            |
+| `vault/communications/Index.md`        | Dataview index over communication notes                                |
+| `vault/communications/YYYY/quarter-N/` | Archived master records (do not alter after filing)                    |
+| `vault/references/`                    | Third-party source docs kept encrypted (copyright); pricing guide etc. |
+| `vault/templates/`                     | Note templates (Communication Log)                                     |
+| `vault/.obsidian/`                     | Obsidian config + Dataview plugin (workspace.json ignored)             |
 
 ## External references
 
 | Where                      | What                                                                    |
 | -------------------------- | ----------------------------------------------------------------------- |
-| `../devartslab-foundation` | Governing charter; adopted revision 3a (2026-10-26)                     |
+| `../foundation` | Governing charter; adopted revision 3a (2026-10-26)                     |
 | Linear project `P-DEV-2`   | DevArts Lab Business Buildout: DEV-16/17/18 backlog, DEV-19 in progress |
 | `../LAB_INDEX.md`          | Workspace inventory (this repo listed under research/notes)             |

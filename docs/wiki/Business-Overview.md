@@ -2,15 +2,15 @@
 
 ## Executive Summary
 
-**DevArts Lab** is a digital development and creative solutions studio that empowers individuals, small businesses, and early-stage entrepreneurs to build a strong online presence using modern web technologies and AI-driven tools. DevArts Lab helps organizations and professionals operate digital systems in production with automated pipelines and AI-driven tools delivered at accessible prices.
+**DevArts Lab** is a digital development and creative solutions studio that empowers individuals, small businesses, and early-stage entrepreneurs to build a strong online presence using modern web technologies and AI-driven tools. DevArts Lab helps organizations and professionals operate digital systems in production with automated pipelines and AI-driven tools delivered at accessible prices. A self-hosted software product line (local-LLM career tooling, DEV-47) extends the studio's reach beyond local services to a global user base.
 
-| Field              | Details                                  |
-| ------------------ | ---------------------------------------- |
-| **Business Name**  | DevArts Lab                              |
-| **Website**        | www.devartslab.com (live)                |
-| **Business Stage** | Pre-Seed                                 |
-| **Industry**       | Information Technology - Web Development |
-| **Offering Type**  | Products & Engineering R&D Services      |
+| Field              | Details                                           |
+| ------------------ | ------------------------------------------------- |
+| **Business Name**  | DevArts Lab                                       |
+| **Website**        | www.devartslab.com (live)                         |
+| **Business Stage** | Pre-Seed                                          |
+| **Industry**       | Information Technology - Web Development          |
+| **Offering Type**  | Services + self-hosted software (engineering R&D) |
 
 <!-- Note: DevArts brand evolved into devartslab.com domain, due to domain unavailability, so we use devartslab.com -->
 
