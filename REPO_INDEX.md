@@ -25,19 +25,18 @@
 
 ## docs/wiki/
 
-| File                               | What it is                                                           |
-| ---------------------------------- | -------------------------------------------------------------------- |
-| `Home.md`                          | Wiki landing page and navigation                                     |
-| `Business-Overview.md`             | Identity facts, mission, vision, values (home for business identity) |
-| `Products-and-Services.md`         | Offerings, service packages, product line (home for all prices)      |
-| `Market-Analysis.md`               | Demand signals, segments, personas, competitors (home for figures)   |
-| `Pricing-Strategy.md`              | Pricing rationale, guide distillation, open gates; cites the homes   |
-| `Financial-Plan.md`                | Cost actuals, revenue streams, projections, funding                  |
-| `Operations-Plan.md`               | Tech stack, tools, delivery workflow                                 |
-| `Milestones.md`                    | Year 1 retrospective, Year 2 roadmap, risks                          |
-| `3-Minute-Pitch.md`                | Talk track; cites fact homes instead of restating numbers            |
-| `First-Stage-Lab-Application.md`   | ULEM First Stage Lab Cohort 3 record (Nov-Dec 2025)                  |
-| `Repository-Naming-Conventions.md` | Pointer stub; promoted to `foundation/reference/repo-naming.md`      |
+| File                             | What it is                                                           |
+| -------------------------------- | -------------------------------------------------------------------- |
+| `Home.md`                        | Wiki landing page and navigation                                     |
+| `Business-Overview.md`           | Identity facts, mission, vision, values (home for business identity) |
+| `Products-and-Services.md`       | Offerings, service packages, product line (home for all prices)      |
+| `Market-Analysis.md`             | Demand signals, segments, personas, competitors (home for figures)   |
+| `Pricing-Strategy.md`            | Pricing rationale, guide distillation, open gates; cites the homes   |
+| `Financial-Plan.md`              | Cost actuals, revenue streams, projections, funding                  |
+| `Operations-Plan.md`             | Tech stack, tools, delivery workflow                                 |
+| `Milestones.md`                  | Year 1 retrospective, Year 2 roadmap, risks                          |
+| `3-Minute-Pitch.md`              | Talk track; cites fact homes instead of restating numbers            |
+| `First-Stage-Lab-Application.md` | ULEM First Stage Lab Cohort 3 record (Nov-Dec 2025)                  |
 
 ## docs/legal/
 
@@ -59,8 +58,8 @@
 
 ## External references
 
-| Where                    | What                                                                    |
-| ------------------------ | ----------------------------------------------------------------------- |
-| `../foundation`          | Governing charter; adopted revision recorded in `AGENTS.md`             |
-| Linear project `P-DEV-2` | DevArts Lab Business Buildout (DEV-16/17/18/19) |
-| `../LAB_INDEX.md`        | Workspace inventory and document readiness                              |
+| Where                    | What                                                        |
+| ------------------------ | ----------------------------------------------------------- |
+| `../foundation`          | Governing charter; adopted revision recorded in `AGENTS.md` |
+| Linear project `P-DEV-2` | DevArts Lab Business Buildout (DEV-16/17/18/19)             |
+| `../LAB_INDEX.md`        | Workspace inventory and document readiness                  |

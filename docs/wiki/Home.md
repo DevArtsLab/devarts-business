@@ -17,7 +17,7 @@ Navigation for the plan pages. What each file holds:
 ## Records and reference
 
 - [[First Stage Lab Application]]
-- Repository naming conventions: `../../foundation/reference/repo-naming.md` (org scope)
+- Repository naming conventions: `../../../foundation/reference/repo-naming.md` (org scope)
 - Legal: [privacy policy](../legal/privacy-policy.md),
   [terms of service](../legal/terms-of-service.md)
 - External communications log: [vault](../../vault/README.md) (encrypted)
