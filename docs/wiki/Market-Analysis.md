@@ -13,9 +13,11 @@ Three demand curves meet where DevArts Lab sits:
   underserved middle wants custom quality at accessible prices.
 - **Applied AI orchestration.** Demand for agentic AI skills is the
   fastest-growing segment in tech hiring (+2043% YoY postings, Dice 2025;
-  RAG +475%, edge intelligence +608%). Yet ~2/3 of firms that deployed
-  genAI report unclear ROI - the bottleneck is orchestration, not models
-  (Bain/BCG 2025). Buyers pay for production outcomes, not prototypes.
+  RAG +475%, edge intelligence +608%; AI skills in 36% of US tech
+  postings; agentic-systems roles ~$225K median comp - DEV-125 scan). Yet
+  ~2/3 of firms that deployed genAI report unclear ROI - the bottleneck
+  is orchestration, not models (Bain/BCG 2025). Buyers pay for production
+  outcomes, not prototypes.
 
 - **Self-hosted, privacy-first software.** Subscription fatigue and data
   sensitivity push users toward tools they own. Hosted career-tool
@@ -150,7 +152,8 @@ _[Draft - proposed; replace with sourced figures on next research pass]_
 - **Global vector:** the self-hosted product (DEV-47) distributes
   worldwide at zero marginal cost - OSS reach is the top of funnel that
   local services never had. Hosted tier stays deferred until demand
-  evidence justifies compliance cost (~$675-5,400/yr CASA).
+  evidence justifies its compliance cost - gate in
+  [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
 
 ---
 

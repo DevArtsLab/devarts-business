@@ -21,6 +21,4 @@
 
 ---
 
-[Activity log](../activity-log.md) | [Home](../wiki/Home.md)
-
 <- [[Milestones]] | [[Home]]

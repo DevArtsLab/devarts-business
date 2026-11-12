@@ -1,69 +1,64 @@
 # Pricing Strategy
 
-_[Draft - proposed, Oct 2026. Anchors verified via Linear-tracked research;
-tiers pending validation against first client conversations.]_
+_[Draft - proposed, Oct 2026. Tiers pending validation against first
+client conversations.]_
+
+This page holds pricing rationale only. The numbers live in
+[Products and Services](Products-and-Services.md); the market figures
+live in [Market Analysis](Market-Analysis.md).
 
 > Reference: [Pricing Guide for B2B SaaS Founders](../../vault/references/pricing-guide-b2b-saas.md)
-> (Stripe 2023, encrypted vault, unlocked clones only). This page distills
-> the guide's framework and binds it to market data tracked on Linear.
+> (Stripe 2023; encrypted vault, unlocked clones only). This page
+> distills the guide's framework and binds it to market data tracked on
+> Linear (DEV-125 scan, DEV-47 survey).
 
 ---
 
 ## Guide principles applied
 
-| Principle (guide)                        | How it lands here                                                          |
-| ---------------------------------------- | -------------------------------------------------------------------------- |
-| Pick the order of magnitude first        | $100s for portfolios, $1Ks for business sites, $4K+ scoped for custom/AI   |
-| Extract ~10-15% of value delivered       | AI automation priced against hours saved, not feature lists                |
-| Low entry price, graduate upward         | Starter at $400-800 lowers the barrier; packages carry a growth path       |
-| Complexity kills                         | Three tiers + four add-ons; no feature matrices                            |
-| Freemium cautiously                      | Product core ships free for reach; services never free                     |
-| Cost and price scale together            | Edge + self-hosted stack keeps COGS near $0; recurring plans fund support  |
-| Pricing shapes go-to-market              | Low-price packages run self-serve/referral; $4K+ scoped work runs proposal |
+| Principle (guide)                  | How it lands here                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------- |
+| Pick the order of magnitude first  | $100s for portfolios, $1Ks for business sites, scoped for custom/AI       |
+| Extract ~10-15% of value delivered | AI automation priced against hours saved, not feature lists               |
+| Low entry price, graduate upward   | Starter tier lowers the barrier; packages carry a growth path             |
+| Complexity kills                   | Three tiers + four add-ons; no feature matrices                           |
+| Freemium cautiously                | Product core ships free for reach; services never free                    |
+| Cost and price scale together      | Edge + self-hosted stack keeps COGS near $0; recurring plans fund support |
+| Pricing shapes go-to-market        | Low-price packages run self-serve/referral; scoped work runs proposal     |
 
 ---
 
-## Market anchors
+## Market anchors -> implications
 
-Signals tracked on Linear (DEV-125 market scan 2026-10-28, DEV-47
-competitive survey re-verified 2026-10-27):
+Anchor figures: [Market Analysis](Market-Analysis.md).
 
-| Anchor                                                    | Figure                                  | Pricing implication                                          |
-| --------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| Hosted career-tool incumbents (Huntr, Teal, Simplify+)    | $26-40/mo effective                     | Self-hosted product undercuts on total cost of ownership     |
-| Agentic-systems roles                                     | $225K median comp                       | $75-120/hr consulting sits below replacement cost of a hire  |
-| AI skills in US tech postings                             | 36%                                     | AI add-ons are a growth attach, not a niche upsell           |
-| Exec AI-ROI pain (Bain/BCG 2025)                          | ~2/3 deployed genAI, unclear ROI        | Sell outcome scorecards (time saved, error rate), not "AI"   |
-| Agentic AI posting growth (Dice 2025)                     | +2043% YoY; RAG +475%, edge +608%       | Enterprise tier anchored on agentic pipeline scope           |
-| CASA assessment (only if a hosted SaaS tier ever returns) | ~$675-5,400/app/yr                      | Hosted tier must clear ~$8K+/yr revenue to justify compliance |
+| Anchor                              | Pricing implication                                                                              |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Hosted career-tool incumbents       | Self-hosted product undercuts on total cost of ownership                                         |
+| Agentic-systems compensation        | Consulting rate sits below the fully-loaded cost of a specialist hire, above commodity freelance |
+| AI skills share of US tech postings | AI add-ons are a growth attach, not a niche upsell                                               |
+| Exec AI-ROI pain                    | Sell outcome scorecards (time saved, error rate), not "AI"                                       |
+| Agentic AI posting growth           | Enterprise tier anchored on agentic pipeline scope                                               |
+| Hosted-tier compliance cost         | Hosted tier must clear its compliance cost in revenue before it returns                          |
 
 ---
 
-## Two revenue tracks
+## Services track (now)
 
-### Services track (now)
+Fixed-scope packages, monthly plans, scoped custom work - figures in
+[Products and Services](Products-and-Services.md#service-packages).
+Constraint: founder hours; pricing converts delivery time into
+repeatable packages.
 
-Fixed-scope packages, monthly plans, scoped custom work.
-See [Products and Services](Products-and-Services.md#service-packages) for
-the tier table. Constraint: founder hours; pricing converts delivery time
-into repeatable packages.
+## Product track (DEV-47, in development)
 
-### Product track (DEV-47, in development)
-
-Self-hosted single-tenant software (Docker Compose distribution, local
-LLM at $0 recurring COGS). Monetization options ranked by gate size:
-
-| Option                   | Price shape        | Gate                                                                |
-| ------------------------ | ------------------ | ------------------------------------------------------------------- |
-| Free core (OSS)          | $0                 | None - reach and credibility engine                                 |
-| Paid setup + support     | $150-300 one-time  | Low - services motion, already permitted                            |
-| Paid product license     | TBD                | Medium - n8n SUL needs written confirmation before paid launch      |
-| Hosted tier (deferred)   | ~$10-20/mo         | High - parked per DEV-47 Q18; CASA + verification costs apply       |
+Monetization shape and gates:
+[Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
 
 Free core is deliberate, not freemium drift: the guide warns free users
 can devalue a brand, so the free artifact is a complete product (data
 ownership, local LLM) and the paid layer is labor and convenience, which
-hosted incumbents cannot bundle at $26-40/mo.
+hosted incumbents cannot bundle at their subscription prices.
 
 ---
 
@@ -78,10 +73,10 @@ AI automation add-ons price against a scorecard, not effort:
 
 ## Open pricing decisions (product gates)
 
-- Product license vs setup/support-only model (blocked on n8n license
-  confirmation, DEV-47 Q21).
-- Consulting rate band vs value-priced fixed quotes once 3-5 projects
-  land.
+- Product license vs setup/support-only model - blocked on the n8n
+  license gate in
+  [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+- Consulting rate band vs value-priced fixed quotes once 3-5 projects land.
 - Whether Year 2 adds a paid template/asset line (low-touch revenue).
 
 ---
