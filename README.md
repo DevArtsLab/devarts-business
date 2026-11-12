@@ -6,3 +6,5 @@ Business plan and records for DevArts Lab (www.devartslab.com). Identity and mis
 - Legal: [docs/legal/](docs/legal/)
 - Encrypted communications vault: [vault/](vault/README.md) (git-crypt)
 - File map and conventions: [REPO_INDEX.md](REPO_INDEX.md)
+
+Content is publicly readable; all rights reserved, no reuse license granted.
