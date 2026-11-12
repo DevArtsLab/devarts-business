@@ -7,9 +7,7 @@
 
 ## Rules
 
-- One home per fact. Identity in `docs/wiki/Business-Overview.md`,
-  prices in `docs/wiki/Products-and-Services.md`, market figures in
-  `docs/wiki/Market-Analysis.md`. Every other page links; nothing restates.
+- Conventions: `AGENTS.md` (one home per fact; fact homes listed there).
 - Document readiness is tracked once in `../LAB_INDEX.md`
   (foundation `reference/repo-layout` S16.2), not in this index.
 
@@ -19,7 +17,7 @@
 | ---------------- | -------------------------------------------------------------------- |
 | `README.md`      | Entry point: what this repo is, links into `docs/`                   |
 | `REPO_INDEX.md`  | This index                                                           |
-| `AGENTS.md`      | Agent-facing conventions; foundation adoption (rev 3a)               |
+| `AGENTS.md`      | Agent-facing conventions; foundation adoption                        |
 | `.gitignore`     | macOS junk, Obsidian churn, git-crypt key material                   |
 | `.gitattributes` | git-crypt filter: everything under `vault/` encrypted at rest in git |
 | `docs/`          | Business plan documentation set                                      |
@@ -39,7 +37,7 @@
 | `Milestones.md`                    | Year 1 retrospective, Year 2 roadmap, risks                          |
 | `3-Minute-Pitch.md`                | Talk track; cites fact homes instead of restating numbers            |
 | `First-Stage-Lab-Application.md`   | ULEM First Stage Lab Cohort 3 record (Nov-Dec 2025)                  |
-| `Repository-Naming-Conventions.md` | Naming standards for DevArtsLab org repos                            |
+| `Repository-Naming-Conventions.md` | Pointer stub; promoted to `foundation/reference/repo-naming.md`      |
 
 ## docs/legal/
 
@@ -63,6 +61,6 @@
 
 | Where                    | What                                                                    |
 | ------------------------ | ----------------------------------------------------------------------- |
-| `../foundation`          | Governing charter; adopted revision 3a (2026-10-26)                     |
+| `../foundation`          | Governing charter; adopted revision recorded in `AGENTS.md`             |
 | Linear project `P-DEV-2` | DevArts Lab Business Buildout: DEV-16/17/18 backlog, DEV-19 in progress |
 | `../LAB_INDEX.md`        | Workspace inventory and document readiness                              |

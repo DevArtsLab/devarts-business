@@ -77,8 +77,8 @@ _[Draft - proposed]_
   look credible next to chain competitors.
 - **Pain points:** Agencies quote enterprise prices; DIY tools eat
   evenings and still look templated; hosting/DNS/email is opaque.
-- **Buys:** Fixed-price business website, e-commerce or booking setup,
-  managed hosting + email on a monthly plan.
+- **Buys:** Fixed-price business website, managed hosting + email on a
+  monthly plan.
 
 ### Persona 3: The Bootcamp Graduate
 

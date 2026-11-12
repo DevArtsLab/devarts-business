@@ -31,8 +31,7 @@ AI tooling they own, not another hosted subscription.
 
 Full-stack web development plus AI-powered tooling, delivered at
 accessible price points. We operate in the orchestration tier
-([Market Analysis](Market-Analysis.md#industry-overview)): buyers get
-production outcomes, not prototypes.
+([Market Analysis](Market-Analysis.md#industry-overview)).
 
 | vs. DIY Builders       | vs. Agencies         |
 | ---------------------- | -------------------- |

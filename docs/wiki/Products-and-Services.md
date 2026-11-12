@@ -55,18 +55,16 @@ wizard; data stays on user hardware.
 | Monetization (v1) | Free core; paid setup/support ($150-300 proposed); paid license gated on n8n SUL confirmation           |
 | Hosted SaaS tier  | Deferred until demand evidence; adds CASA ~$675-5,400/yr + ~6-week Google restricted-scope verification |
 
-Differentiation vs hosted incumbents: [Market Analysis](Market-Analysis.md#competitor-analysis).
-Moat: data ownership + $0 recurring AI cost + a thread model no competitor ships.
+Competitor comparison and differentiation: [Market Analysis](Market-Analysis.md#competitor-analysis).
 
 ---
 
 ## Future Offerings
 
-- [ ] Career tracker v1 release (self-hosted, DEV-47 Phases A-D)
+- [ ] Career tracker v1 release (self-hosted, DEV-47)
 - [ ] Async research agent service (Linear: DEV-16)
 - [ ] Productized Revenue Transformation System (RTS) onboarding for partner organizations and consultants (Linear: DEV-18)
 - [ ] Studio storefront with embedded live demos (Linear: DEV-17)
-- [ ] Paid product license or hosted tier (post-launch, on demand evidence)
 - [ ] Maintenance and support packages
 - [ ] Workshops and training programs
 

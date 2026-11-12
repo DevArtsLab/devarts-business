@@ -21,7 +21,7 @@ Actuals as of November 2026 - infrastructure is already running:
 
 1. **Project-Based Services** - one-time builds and consulting
 2. **Retainer/Subscription** - ongoing maintenance and updates
-3. **Product** - self-hosted software (free core + paid setup/support; DEV-47)
+3. **Product** - self-hosted software (DEV-47)
 4. **Product Sales** - templates, tools, and digital assets
 5. **Workshops/Training** - teaching clients to manage their sites
 
@@ -32,11 +32,9 @@ Actuals as of November 2026 - infrastructure is already running:
 Price list: [Products and Services](Products-and-Services.md#service-packages).
 Rationale and market anchors: [Pricing Strategy](Pricing-Strategy.md).
 
-Shape: fixed-scope packages for predictability, monthly plans for
-recurring revenue, scoped pricing for custom/AI work. The product track
-carries $0 recurring COGS per user (self-hosted, local LLM); hosted-tier
-compliance costs apply only if that tier returns - see the product line
-table in [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
+The product track carries $0 recurring COGS per user (self-hosted,
+local LLM); hosted-tier compliance costs apply only if that tier
+returns - gate in [Products and Services](Products-and-Services.md#product-line-in-development---dev-47).
 
 ---
 
@@ -58,9 +56,8 @@ _[Draft - proposed; Year 2 window (Nov 2026 - Oct 2027). No paying pilots yet - 
 _[Draft - proposed]_
 
 Fixed costs ~$70/yr + registration (TBD). Break-even is effectively one
-Starter project. Real threshold is founder time, not cash: the
-constraint is converting delivery hours into repeatable packages before
-taking on scoped work.
+Starter project. Real threshold is founder time, not cash - constraint
+rationale in [Pricing Strategy](Pricing-Strategy.md#services-track-now).
 
 ---
 

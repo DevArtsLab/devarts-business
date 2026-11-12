@@ -1,7 +1,6 @@
 # Pricing Strategy
 
-_[Draft - proposed, Oct 2026. Tiers pending validation against first
-client conversations.]_
+_[Draft - proposed, Oct 2026.]_
 
 This page holds pricing rationale only. The numbers live in
 [Products and Services](Products-and-Services.md); the market figures

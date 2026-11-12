@@ -7,4 +7,3 @@ www.devartslab.com). Identity and mission: [Business Overview](docs/wiki/Busines
 - Legal: [docs/legal/](docs/legal/)
 - Encrypted communications vault: [vault/](vault/README.md) (git-crypt)
 - File map and conventions: [REPO_INDEX.md](REPO_INDEX.md)
-- Tracking: Linear project P-DEV-2
