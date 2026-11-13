@@ -11,15 +11,15 @@
 
 ## Year 2 Roadmap (Nov 2026 - Oct 2027)
 
-| Timeline     | Milestone                                                                                                                | Status      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Nov-Dec 2026 | Legal business structure; brand identity + social presence; validate pricing with 3-5 prospects                          | Pending     |
-| Nov 2026+    | Career tracker v1: compose + agents + release channel (DEV-47 Phases A-D)                                                | In progress |
-| Jan-Mar 2027 | First 1-2 paying projects (Starter/Professional tier)                                                                    | Pending     |
-| Apr-Jun 2027 | 2-3 projects + first recurring maintenance plan; collect testimonials                                                    | Pending     |
-| Jul-Oct 2027 | Productize top package; marketing + referral program; evaluate subcontracting and RTS org onboarding (DEV-18)            | Pending     |
-| Q4 2026      | Intelligence agent service (DEV-16), first RTS org (DEV-18)                                                              | Backlog     |
-| Post-launch  | Paid product license or hosted tier - gates in [Products](Products-and-Services.md#product-line-dev-47) | Deferred    |
+| Timeline     | Milestone                                                                                                     | Status      |
+| ------------ | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| Nov-Dec 2026 | Legal business structure; brand identity + social presence; validate pricing with 3-5 prospects               | Pending     |
+| Nov 2026+    | Career tracker v1: compose + agents + release channel (DEV-47 Phases A-D)                                     | In progress |
+| Jan-Mar 2027 | First 1-2 paying projects (Starter/Professional tier)                                                         | Pending     |
+| Apr-Jun 2027 | 2-3 projects + first recurring maintenance plan; collect testimonials                                         | Pending     |
+| Jul-Oct 2027 | Productize top package; marketing + referral program; evaluate subcontracting and RTS org onboarding (DEV-18) | Pending     |
+| Q4 2026      | Intelligence agent service (DEV-16), first RTS org (DEV-18)                                                   | Backlog     |
+| Post-launch  | Paid product license or hosted tier - gates in [Products](Products-and-Services.md#product-line-dev-47)       | Deferred    |
 
 ---
 
@@ -34,4 +34,4 @@
 
 ---
 
-<- [[Financial Plan]] | [[Home]] | [[First Stage Lab Application]] ->
+<- [[Financial Plan]] | [[Home]] | [[First Stage Lab Application]] | [[DevArts Timeline]] ->

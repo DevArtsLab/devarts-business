@@ -17,6 +17,7 @@ Navigation for the plan pages. What each file holds:
 ## Records and reference
 
 - [[First Stage Lab Application]]
+- [[DevArts Timeline]] (brand/entity dates, single home)
 - Repository naming conventions: `../../../foundation/reference/repo-naming.md` (org scope)
 - Legal: [privacy policy](../legal/privacy-policy.md),
   [terms of service](../legal/terms-of-service.md)
