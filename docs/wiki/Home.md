@@ -1,48 +1,24 @@
 # DevArts Business Wiki
 
-Welcome to the DevArts Business Plan documentation wiki.
+Navigation for the plan pages. What each file holds:
+[REPO_INDEX](../../REPO_INDEX.md).
 
-## Quick Navigation
+## Plan
 
 - [[Business Overview]]
 - [[Products and Services]]
 - [[Market Analysis]]
-- [[3-Minute Pitch]]
-- [[Operations Plan]]
-- [[Financial Plan]]
 - [[Pricing Strategy]]
+- [[Financial Plan]]
+- [[Operations Plan]]
 - [[Milestones]]
-- [[Repository Naming Conventions]]
+- [[3-Minute Pitch]]
 
-Records: [DevArts Lab activity log](../activity-log.md) - programs,
-events, external inputs to the plan
+## Records and reference
 
----
-
-## About DevArts
-
-**DevArts** is a digital development and creative solutions studio that empowers individuals, small businesses, and early-stage entrepreneurs to build a strong online presence using modern web technologies and AI-driven tools.
-
-### Mission
-
-To make high-quality digital presence accessible to everyone, regardless of technical background or budget, through smart automation and personalized design.
-
----
-
-## Document Status
-
-| Section             | Status                                    |
-| ------------------- | ----------------------------------------- |
-| Executive Summary   | ✅ Complete                               |
-| Business Overview   | ✅ Refreshed (product line added)         |
-| Products & Services | 🔄 Pricing + product line drafted         |
-| Market Analysis     | 🔄 Enriched with Linear market signals    |
-| 3-Minute Pitch      | 🔄 In Progress (script)                   |
-| Operations Plan     | ✅ Complete                               |
-| Financial Plan      | 🔄 Pricing/projections drafted (proposed) |
-| Pricing Strategy    | 🔄 Drafted (proposed; guide + anchors)    |
-| Milestones          | ✅ Refreshed (Year 2 roadmap proposed)    |
-
----
-
-_Last updated: October 30, 2026_
+- [[First Stage Lab Application]]
+- [[DevArts Timeline]] (brand/entity dates, single home)
+- Repository naming conventions: `../../../foundation/reference/repo-naming.md` (org scope)
+- Legal: [privacy policy](../legal/privacy-policy.md),
+  [terms of service](../legal/terms-of-service.md)
+- External communications log: [vault](../../vault/README.md) (encrypted)

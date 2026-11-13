@@ -1,76 +1,75 @@
 # 3-Minute Pitch
 
-> **Goal:** To communicate DevArts Lab business strategy clearly and confidently
+Talk track. Figures are cited, not restated: market stats
+[Market Analysis](Market-Analysis.md), prices
+[Products and Services](Products-and-Services.md), targets
+[Milestones](Milestones.md).
 
 ---
 
 ## 1. Problem
 
-Many organizations, small business owners, and early-stage entrepreneurs struggle to establish a professional online presence. They either:
+Many organizations, small business owners, and early-stage entrepreneurs
+struggle to establish a professional online presence. They lack the
+technical skills to build modern applications, cannot afford agency
+prices, or end up with generic templates that do not reflect their brand.
 
-- Lack the technical skills to build modern applications
-- Can't afford expensive tools and services
-- End up with generic templates that don't reflect their unique brand
-
-**This digital gap limits their ability to attract clients, grow revenue, and compete in an increasingly online-first economy.**
-
----
-
-## 2. Customer Segments
-
-- **Nonprofits and entrepreneurs** with limited budgets
-- **Healthcare & research institutions** needing AI validation infrastructure and secure cloud solutions
-- **Freelancers & independent professionals** (developers, designers, consultants, artists)
-- **Small businesses** lacking web presence, locally and remote
-- **Privacy-conscious professionals** who want AI tooling they own, not a $26-40/mo hosted subscription
+**This digital gap limits their ability to attract clients, grow revenue, and compete in an online-first economy.**
 
 ---
 
-## 3. Unique Value Proposition (UVP)
+## 2. Customers
 
-DevArts Lab combines **full-stack web development expertise** with **AI-powered content tools** to deliver high-quality, personalized digital solutions at accessible price points.
-
-| vs. DIY Builders       | vs. Agencies             |
-| ---------------------- | ------------------------ |
-| Custom design          | Affordable pricing       |
-| Real developer support | Fast turnaround          |
-| Personalized solutions | Accessible communication |
-
-**We bridge the gap: professional results without the enterprise cost.**
-
-DevArts Lab operates in the **orchestration tier** - where verified demand
-is growing fastest (agentic AI postings +2043% YoY, Dice 2025) and where
-buyers pay for production outcomes, not prototypes. Two tracks: services
-that convert into repeatable packages, and a self-hosted product line
-(local LLM, $0 recurring cost) that distributes globally.
-
-**Proof (verified Oct 2026):** production Cloudflare edge stack serving 5
-live properties (devartslab.com, docs, data, mail, american-community-network); 38 repos shipped under the DevArtsLab org.
+Local small businesses, nonprofits, freelancers, and early-stage
+entrepreneurs (segments and personas: [Market Analysis](Market-Analysis.md#target-market)).
+Plus a global product audience: privacy-conscious professionals who want
+AI tooling they own, not another hosted subscription.
 
 ---
 
-## 4. Key Partners
+## 3. Unique Value Proposition
+
+Full-stack web development plus AI-powered tooling, delivered at
+accessible price points. We operate in the orchestration tier
+([Market Analysis](Market-Analysis.md#industry-overview)).
+
+| vs. DIY Builders       | vs. Agencies         |
+| ---------------------- | -------------------- |
+| Custom design          | Accessible pricing   |
+| Real developer support | Fast turnaround      |
+| Personalized solutions | Direct communication |
+
+**Proof:** production Cloudflare edge stack serving devartslab.com,
+docs, data, mail, and american-community-network; full repo portfolio
+under the DevArtsLab org.
+
+---
+
+## 4. Two Revenue Tracks
+
+- **Services:** fixed-scope packages and monthly plans -
+  [Products and Services](Products-and-Services.md#service-packages).
+- **Product:** self-hosted career tracker, free core,
+  global distribution -
+  [Products and Services](Products-and-Services.md#product-line-dev-47).
+
+---
+
+## 5. Key Partners
 
 | Partner Type              | Examples                                    | Value                        |
 | ------------------------- | ------------------------------------------- | ---------------------------- |
 | **Business Associations** | Chambers of commerce, local business groups | Referral pipelines           |
 | **Educational Programs**  | Coding bootcamps, workforce development     | Graduate portfolio services  |
-| **Tech Providers**        | Web application, Cloud and AI providers     | Integrated solutions         |
+| **Tech Providers**        | Web application, cloud and AI providers     | Integrated solutions         |
 | **Creative Networks**     | Freelance communities                       | Co-marketing, subcontracting |
 
 ---
 
-## 5. Key Metrics
+## 6. Year 2 Targets
 
-| Metric                      | Target (Year 2)         |
-| --------------------------- | ----------------------- |
-| Pilot projects completed    | 3-5 paying projects     |
-| Product users (self-hosted) | First external adopters |
-| Client satisfaction (NPS)   | TBD (tracking tool)     |
-| Revenue per project         | TBD (tracking tool)     |
-| Monthly recurring revenue   | TBD (tracking tool)     |
-| Client referral rate        | TBD (tracking tool)     |
-| Website lead conversion     | TBD (tracking tool)     |
+3-5 paying projects, first external product adopters, first recurring
+maintenance plan. Roadmap and risks: [Milestones](Milestones.md).
 
 ---
 

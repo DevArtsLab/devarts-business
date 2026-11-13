@@ -28,99 +28,16 @@
 
 ---
 
-## Workflow Process
+## Delivery Workflow
 
-```
-+-----------------+
-| 1. Discovery    |
-|    Call         |
-+--------+--------+
-         v
-+-----------------+
-| 2. Proposal &   |
-|    Agreement    |
-+--------+--------+
-         v
-+-----------------+
-| 3. Design       |
-|    Mockups      |
-+--------+--------+
-         v
-+-----------------+
-| 4. Development  |
-+--------+--------+
-         v
-+-----------------+
-| 5. Review &     |
-|    Revisions    |
-+--------+--------+
-         v
-+-----------------+
-| 6. Launch       |
-+--------+--------+
-         v
-+-----------------+
-| 7. Handoff &    |
-|    Training     |
-+--------+--------+
-         v
-+-----------------+
-| 8. Ongoing      |
-|    Support      |
-+-----------------+
-```
-
----
-
-## Process Details
-
-### 1. Discovery Call
-
-- Understand client needs
-- Assess project scope
-- Discuss timeline and budget
-
-### 2. Proposal & Agreement
-
-- Detailed project proposal
-- Pricing and payment terms
-- Contract signing
-
-### 3. Design Mockups
-
-- Wireframes and layouts
-- Visual design concepts
-- Client feedback rounds
-
-### 4. Development
-
-- Frontend implementation
-- Backend integration
-- Content management setup
-
-### 5. Review & Revisions
-
-- Client testing
-- Bug fixes
-- Final adjustments
-
-### 6. Launch
-
-- Domain setup
-- Deployment
-- Go-live checklist
-
-### 7. Handoff & Training
-
-- Documentation
-- Client training session
-- Access credentials
-
-### 8. Ongoing Support (Optional)
-
-- Maintenance packages
-- Updates and improvements
-- Technical support
+1. **Discovery call** - client needs, scope, timeline, budget
+2. **Proposal & agreement** - project proposal, pricing and payment terms, contract
+3. **Design mockups** - wireframes, visual concepts, feedback rounds
+4. **Development** - frontend, backend integration, content management setup
+5. **Review & revisions** - client testing, bug fixes, final adjustments
+6. **Launch** - domain setup, deployment, go-live checklist
+7. **Handoff & training** - documentation, training session, access credentials
+8. **Ongoing support (optional)** - maintenance packages, updates, technical support
 
 ---
 

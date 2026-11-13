@@ -8,7 +8,7 @@
 | ------------------ | ------------------------------------------------- |
 | **Business Name**  | DevArts Lab                                       |
 | **Website**        | www.devartslab.com (live)                         |
-| **Business Stage** | Pre-Seed                                          |
+| **Business Stage** | Bootstrapping                                     |
 | **Industry**       | Information Technology - Web Development          |
 | **Offering Type**  | Services + self-hosted software (engineering R&D) |
 

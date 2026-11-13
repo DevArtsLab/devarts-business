@@ -2,8 +2,6 @@
 
 ## Industry Overview
 
-_[Draft - proposed, Oct 2026]_
-
 Three demand curves meet where DevArts Lab sits:
 
 - **Small-business digital gap.** A large share of local businesses,
@@ -13,13 +11,15 @@ Three demand curves meet where DevArts Lab sits:
   underserved middle wants custom quality at accessible prices.
 - **Applied AI orchestration.** Demand for agentic AI skills is the
   fastest-growing segment in tech hiring (+2043% YoY postings, Dice 2025;
-  RAG +475%, edge intelligence +608%). Yet ~2/3 of firms that deployed
-  genAI report unclear ROI - the bottleneck is orchestration, not models
-  (Bain/BCG 2025). Buyers pay for production outcomes, not prototypes.
+  RAG +475%, edge intelligence +608%; AI skills in 36% of US tech
+  postings; agentic-systems roles ~$225K median comp - DEV-125 scan). Yet
+  ~2/3 of firms that deployed genAI report unclear ROI - the bottleneck
+  is orchestration, not models (Bain/BCG 2025). Buyers pay for production
+  outcomes, not prototypes.
 
 - **Self-hosted, privacy-first software.** Subscription fatigue and data
   sensitivity push users toward tools they own. Hosted career-tool
-  incumbents charge $26-40/mo (DEV-47 survey, re-verified 2026-10-27);
+  incumbents charge $26-40/mo (DEV-47 survey);
   none ship a self-hosted, local-LLM option. A free core product with
   $0 recurring COGS distributes globally and feeds the services track.
 
@@ -54,8 +54,6 @@ DEV-125 refresh); positioning vocabulary here should align with it.
 
 ### Persona 1: The Freelance Developer
 
-_[Draft - proposed]_
-
 - **Profile:** Independent developer or designer, 1-5 years freelance,
   income tied to portfolio quality and inbound leads.
 - **Goals:** A portfolio site that wins client trust fast; occasional
@@ -67,20 +65,16 @@ _[Draft - proposed]_
 
 ### Persona 2: The Local Business Owner
 
-_[Draft - proposed]_
-
 - **Profile:** Restaurant, salon, repair shop, or local service business;
   no dedicated marketing or IT staff.
 - **Goals:** Get found on search/maps, take orders or bookings online,
   look credible next to chain competitors.
 - **Pain points:** Agencies quote enterprise prices; DIY tools eat
   evenings and still look templated; hosting/DNS/email is opaque.
-- **Buys:** Fixed-price business website, e-commerce or booking setup,
-  managed hosting + email on a monthly plan.
+- **Buys:** Fixed-price business website, managed hosting + email on a
+  monthly plan.
 
 ### Persona 3: The Bootcamp Graduate
-
-_[Draft - proposed]_
 
 - **Profile:** Recent bootcamp or career-change graduate building a first
   professional portfolio to land a junior role.
@@ -93,10 +87,8 @@ _[Draft - proposed]_
 
 ### Persona 4: The Self-Hosting Professional (product user)
 
-_[Draft - proposed; grounded in DEV-47 research]_
-
 - **Profile:** Job seeker or career switcher with enough technical
-  comfort to run Docker Compose; often currently employed, so
+  comfort to run Docker Compose; often employed, so
   application activity is sensitive data.
 - **Goals:** Run a real job-hunt system (records, threads, follow-ups)
   without handing search data to a hosted SaaS or paying $26-40/mo.
@@ -119,7 +111,7 @@ _[Draft - proposed; grounded in DEV-47 research]_
 | **Agencies**      | Full service         | $5K+ entry quotes, slow | Accessible pricing  |
 | **Upwork**        | Large talent pool    | Inconsistent quality    | Reliable expertise  |
 
-### Product track (DEV-47 anchors, verified 2026-10-27)
+### Product track (DEV-47 anchors)
 
 | Competitor    | Price                        | Weakness vs DevArts product                           |
 | ------------- | ---------------------------- | ----------------------------------------------------- |
@@ -135,8 +127,6 @@ catalogs, local LLM at $0 recurring, open data store.
 
 ## Market Size & Opportunity
 
-_[Draft - proposed; replace with sourced figures on next research pass]_
-
 - **Reachable market (Year 1-2):** Greater Boston small businesses,
   nonprofits, and independent professionals reachable through local
   networks (ULEM/First Stage Lab alumni, chambers, bootcamp communities).
@@ -150,7 +140,8 @@ _[Draft - proposed; replace with sourced figures on next research pass]_
 - **Global vector:** the self-hosted product (DEV-47) distributes
   worldwide at zero marginal cost - OSS reach is the top of funnel that
   local services never had. Hosted tier stays deferred until demand
-  evidence justifies compliance cost (~$675-5,400/yr CASA).
+  evidence justifies its compliance cost - gate in
+  [Products and Services](Products-and-Services.md#product-line-dev-47).
 
 ---
 
